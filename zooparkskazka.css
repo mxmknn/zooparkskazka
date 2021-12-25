@@ -1,0 +1,30 @@
+body{
+	background-color:aqua;
+	font-family: sans-serif;
+}
+img{
+	width: 500px;
+	height: 300px;
+}
+a{
+	background-color: #38B2CF;
+	padding: 15px;
+	text-decoration: none;
+	color: white;
+	display: flex;
+	justify-content: center ;
+	margin: 10px;
+}
+a:hover{
+	background-color: #60B9CF;
+	padding: 15px;
+	text-decoration: none;
+	color: white;
+}
+p{
+	font-size: 20px;
+}
+.t{
+	display: flex;
+	flex-wrap: wrap;
+}
